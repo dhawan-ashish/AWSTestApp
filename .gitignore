@@ -1,3 +1,6 @@
 springboot.iml
 .idea/
 target/
+*.log
+
+
